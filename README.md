@@ -8,6 +8,6 @@ Language is the core medium of communication and translation is the core tool fo
 A computer program can translate tremendous amounts of content quickly. Even the most trustworthy employees can make mistakes. That's why, as a rule, the more people who have access to a document, the higher the security risks. By reducing the number of humans who must access sensitive data, machine translation can improve data security. In ancient days, English people suffered a lot with this translation issues. All the medical prescriptions were written in English, which Hindi people can’t understand. They must depend entirely on human translators. As no human can work accurately, sometimes the medicine name would be translated to another name. This resulted in the wrong medication. So, these types of complex problems can be solved by using machine translation. This is the main motto to choose this project. Here we will be translating English to Hindi using attention models as merely half of the world’s population speak English, Hindi. We also translate human readable dates like April 8th, 2000, to machine readable dates 04/08/2000 in this project.
 
 
-Dataset:
+## Dataset:
 
 I have attched Kaggle URL to the dataset
